@@ -108,27 +108,27 @@ Se você descobrir um possível problema de segurança relacionado ao Grav ou a 
 * Exemplos de revisão no [Livro de Receitas do Grav](https://learn.getgrav.org/cookbook)
 * Mais no [Awesome Grav Stuff](https://github.com/getgrav/awesome-grav)
 
-# Backers
-Support Grav with a monthly donation to help us continue development. [[Become a backer](https://opencollective.com/grav#backer)]
+# Apoiadores
+Apoie Grav com uma doação mensal para nos ajudar a continuar o desenvolvimento. [[Torne-se um Apoiador do Projeto](https://opencollective.com/grav#backer)]
 
 <img src="https://opencollective.com/grav/tiers/backers.svg?avatarHeight=36&width=600" />
 
-# Sponsors
-Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/grav#sponsor)]
+# Patrocinadores
+Torne-se um patrocinador e obtenha seu logotipo em nosso README no Github com um link para seu site.  [[Torne-se um Patrocinador](https://opencollective.com/grav#sponsor)]
 
 <img src="https://opencollective.com/grav/tiers/sponsors.svg?avatarHeight=36&width=600" />
 
-# License
+# Licença
 
-See [LICENSE](LICENSE.txt)
+Veja [LICENÇA](LICENSE.txt)
 
 
 [gitflow-model]: http://nvie.com/posts/a-successful-git-branching-model/
 [gitflow-extensions]: https://github.com/nvie/gitflow
 
-# Running Tests
+# Executando Testes
 
-First install the dev dependencies by running `composer update` from the Grav root.
-Then `composer test` will run the Unit Tests, which should be always executed successfully on any site.
-Windows users should use the `composer test-windows` command.
-You can also run a single unit test file, e.g. `composer test tests/unit/Grav/Common/AssetsTest.php`
+Primeiro instale as dependências DEV executando `composer update` na raiz do Grav.
+Em seguida, o `composer test` executará os Testes de Unidade, que devem ser sempre executados com sucesso em qualquer site.
+Usuários do Windows devem usar o comando `composer test-windows`.
+Você também pode executar um arquivo de teste de unidade única, por exemplo: `composer test tests/unit/Grav/Common/AssetsTest.php`
