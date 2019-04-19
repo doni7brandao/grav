@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
  [![Build Status](https://travis-ci.org/getgrav/grav.svg?branch=develop)](https://travis-ci.org/getgrav/grav) [![OpenCollective](https://opencollective.com/grav/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/grav/sponsors/badge.svg)](#sponsors)
 
-O Grav é uma plataforma Web baseada em arquivos **rápida**, **simples**, e **flexível**. A necessidade de instalação é **ZERO**.  asta extrair o arquivo ZIP e já está instalado e funcionando. Ele segue princípios semelhantes a outras plataformas CMS de arquivos simples, mas tem uma filosofia de design diferente da maioria. Grav vem com um poderoso **sistema de gerenciamento de pacotes** para permitir a instalação e atualização simples de plugins e temas, bem como a simples atualização do próprio Grav.
+O Grav é uma plataforma Web baseada em arquivos **rápida**, **simples**, e **flexível**. A necessidade de instalação é **ZERO**. Basta extrair o arquivo ZIP e já está instalado e funcionando. Ele segue princípios semelhantes a outras plataformas CMS de arquivos simples, mas tem uma filosofia de design diferente da maioria. Grav vem com um poderoso **sistema de gerenciamento de pacotes** para permitir a instalação e atualização simples de plugins e temas, bem como a simples atualização do próprio Grav.
 
 A arquitetura subjacente do Grav foi projetada para usar tecnologias bem estabelecidas e de _primeira classe_ para garantir que o Grav seja simples de usar e fácil de estender. Algumas dessas tecnologias-chave incluem:
 
