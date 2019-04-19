@@ -56,36 +56,36 @@ $ composer create-project getgrav/grav ~/webroot/grav
 
 Confira os [procedimentos de instalação](https://learn.getgrav.org/basics/installation) para mais informações.
 
-# Adding Functionality
+# Adicionando Funcionalidades
 
-You can download [plugins](https://getgrav.org/downloads/plugins) or [themes](https://getgrav.org/downloads/themes) manually from the appropriate tab on the [Downloads page on https://getgrav.org](https://getgrav.org/downloads), but the preferred solution is to use the [Grav Package Manager](https://learn.getgrav.org/advanced/grav-gpm) or `GPM`:
+Você pode baixar [Plugins](https://getgrav.org/downloads/plugins) ou [Temas](https://getgrav.org/downloads/themes) manualmente a partir da guia apropriada na [Página de Downloads em https://getgrav.org](https://getgrav.org/downloads), mas a solução preferida é usar o [Gerenciador de Pacotes do Grav](https://learn.getgrav.org/advanced/grav-gpm) ou `GPM`:
 
 ```
 $ bin/gpm index
 ```
 
-This will display all the available plugins and then you can install one or more with:
+Isto irá mostrar todos os plugins disponíveis e você pode instalar um ou mais com:
 
 ```
 $ bin/gpm install <plugin/theme>
 ```
 
-# Updating
+# Atualizações
 
-To update Grav you should use the [Grav Package Manager](https://learn.getgrav.org/advanced/grav-gpm) or `GPM`:
+Para atualizar o Grav você deve usar o [Gerenciador de Pacote do Grav](https://learn.getgrav.org/advanced/grav-gpm) ou `GPM`:
 
 ```
 $ bin/gpm selfupgrade
 ```
 
-To update plugins and themes:
+Para atualizar plugins e temas:
 
 ```
 $ bin/gpm update
 ```
 
 
-# Contributing
+# Contribuindo
 We appreciate any contribution to Grav, whether it is related to bugs, grammar, or simply a suggestion or improvement! Please refer to the [Contributing guide](CONTRIBUTING.md) for more guidance on this topic.
 
 ## Security issues
