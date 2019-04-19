@@ -86,27 +86,27 @@ $ bin/gpm update
 
 
 # Contribuindo
-We appreciate any contribution to Grav, whether it is related to bugs, grammar, or simply a suggestion or improvement! Please refer to the [Contributing guide](CONTRIBUTING.md) for more guidance on this topic.
+Agradecemos qualquer contribuição ao Grav, seja relacionada a erros, gramática ou simplesmente uma sugestão ou melhoria! Por favor, consulte o [Guia de Contribuição](CONTRIBUTING.md) para mais orientações sobre este tópico.
 
-## Security issues
-If you discover a possible security issue related to Grav or one of its plugins, please email the core team at contact@getgrav.org and we'll address it as soon as possible.
+## Problemas de segurança
+Se você descobrir um possível problema de segurança relacionado ao Grav ou a um de seus plug-ins, envie um email para a equipe principal pelo contact@getgrav.org e abordaremos o assunto o mais breve possível.
 
-# Getting Started
+# Começando
 
-* [What is Grav?](https://learn.getgrav.org/basics/what-is-grav)
-* [Install](https://learn.getgrav.org/basics/installation) Grav in few seconds
-* Understand the [Configuration](https://learn.getgrav.org/basics/grav-configuration)
-* Take a peek at our available free [Skeletons](https://getgrav.org/downloads/skeletons)
-* If you have questions, jump on our [Discord Chat Server](https://chat.getgrav.org)!
+* [O que é o Grav?](https://learn.getgrav.org/basics/what-is-grav)
+* [Instale](https://learn.getgrav.org/basics/installation) o Grav em poucos segundos.
+* Entenda a [Configuração](https://learn.getgrav.org/basics/grav-configuration)
+* Dê uma olhada nos nossos [Modelos de Temas](https://getgrav.org/downloads/skeletons) gratuitos.
+* Se você tiver dúvidas, entre em nosso [Chat Grav de Discussão](https://chat.getgrav.org)!
 * Have fun!
 
-# Exploring More
+# Explorando Mais
 
-* Have a look at our [Basic Tutorial](https://learn.getgrav.org/basics/basic-tutorial)
-* Dive into more [advanced](https://learn.getgrav.org/advanced) functions
-* Learn about the [Grav CLI](https://learn.getgrav.org/cli-console/grav-cli)
-* Review examples in the [Grav Cookbook](https://learn.getgrav.org/cookbook)
-* More [Awesome Grav Stuff](https://github.com/getgrav/awesome-grav)
+* Dê uma olhada no nosso [Tutorial Básico](https://learn.getgrav.org/basics/basic-tutorial)
+* Mergulhe em nossas [Funções Avançadas](https://learn.getgrav.org/advanced)
+* Aprenda sobre o [CLI Grav](https://learn.getgrav.org/cli-console/grav-cli)
+* Exemplos de revisão no [Livro de Receitas do Grav](https://learn.getgrav.org/cookbook)
+* Mais no [Awesome Grav Stuff](https://github.com/getgrav/awesome-grav)
 
 # Backers
 Support Grav with a monthly donation to help us continue development. [[Become a backer](https://opencollective.com/grav#backer)]
