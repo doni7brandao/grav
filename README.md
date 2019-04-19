@@ -3,7 +3,7 @@
 [![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/cfd20465-d0f8-4a0a-8444-467f5b5f16ad/mini.png)](https://insight.sensiolabs.com/projects/cfd20465-d0f8-4a0a-8444-467f5b5f16ad)
 [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
- [![Build Status](https://travis-ci.org/getgrav/grav.svg?branch=develop)](https://travis-ci.org/getgrav/grav) [![OpenCollective](https://opencollective.com/grav/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/grav/sponsors/badge.svg)](#sponsors)
+ [![Build Status](https://travis-ci.org/getgrav/grav.svg?branch=develop)](https://travis-ci.org/getgrav/grav) [![OpenCollective](https://opencollective.com/grav/backers/badge.svg)](#apoiadores) [![OpenCollective](https://opencollective.com/grav/sponsors/badge.svg)](#sponsors)
 
 O Grav é uma plataforma Web baseada em arquivos **rápida**, **simples**, e **flexível**. A necessidade de instalação é **ZERO**. Basta extrair o arquivo ZIP e já está instalado e funcionando. Ele segue princípios semelhantes a outras plataformas CMS de arquivos simples, mas tem uma filosofia de design diferente da maioria. Grav vem com um poderoso **sistema de gerenciamento de pacotes** para permitir a instalação e atualização simples de plugins e temas, bem como a simples atualização do próprio Grav.
 
