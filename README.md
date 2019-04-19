@@ -19,42 +19,42 @@ A arquitetura subjacente do Grav foi projetada para usar tecnologias bem estabel
 * [Symfony Console](https://symfony.com/doc/current/components/console/introduction.html): para interface CLI
 * [Gregwar Image Library](https://github.com/Gregwar/Image): para manipulação dinâmica de imagens
 
-# Requirements
+# Requisitos:
 
-- PHP 7.1.3 or higher. Check the [required modules list](https://learn.getgrav.org/basics/requirements#php-requirements)
-- Check the [Apache](https://learn.getgrav.org/basics/requirements#apache-requirements) or [IIS](https://learn.getgrav.org/basics/requirements#iis-requirements) requirements
+- PHP 7.1.3 ou superior. Verifique a [lista de móduloes necessários](https://learn.getgrav.org/basics/requirements#php-requirements)
+- Verifique os requisitos do [Apache](https://learn.getgrav.org/basics/requirements#apache-requirements) ou do [IIS](https://learn.getgrav.org/basics/requirements#iis-requirements)
 
-# QuickStart
+# Início rápido:
 
-These are the options to get Grav:
+Estas são as opções para obter o Grav:
 
-### Downloading a Grav Package
+### Download de um pacote GRAV
 
-You can download a **ready-built** package from the [Downloads page on https://getgrav.org](https://getgrav.org/downloads)
+Você pode baixar um pacote **pronto** na [Página de Downloads em https://getgrav.org](https://getgrav.org/downloads)
 
-### With Composer
+### Usando o Composer
 
-You can create a new project with the latest **stable** Grav release with the following command:
+Você pode criar um novo projeto com a última **versão estável** do Grav com o seguinte comando:
 
 ```
 $ composer create-project getgrav/grav ~/webroot/grav
 ```
 
-### From GitHub
+### Diretamente do GitHub
 
-1. Clone the Grav repository from [https://github.com/getgrav/grav]() to a folder in the webroot of your server, e.g. `~/webroot/grav`. Launch a **terminal** or **console** and navigate to the webroot folder:
+1. Clone o repositório do Grav em [https://github.com/getgrav/grav]() para uma pasta na webroot do seu servidor, por exemplo: `~/webroot/grav`. Inicie um **terminal** ou **console** e navegue até a pasta webroot:
    ```
    $ cd ~/webroot
    $ git clone https://github.com/getgrav/grav.git
    ```
 
-2. Install the **plugin** and **theme dependencies** by using the [Grav CLI application](https://learn.getgrav.org/advanced/grav-cli) `bin/grav`:
+2. Instale os **plugin's** e **dependências do tema** utilizando o [Grav CLI application](https://learn.getgrav.org/advanced/grav-cli) `bin/grav`:
    ```
    $ cd ~/webroot/grav
    $ bin/grav install
    ```
 
-Check out the [install procedures](https://learn.getgrav.org/basics/installation) for more information.
+Confira os [procedimentos de instalação](https://learn.getgrav.org/basics/installation) para mais informações.
 
 # Adding Functionality
 
