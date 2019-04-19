@@ -5,19 +5,19 @@
 [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
  [![Build Status](https://travis-ci.org/getgrav/grav.svg?branch=develop)](https://travis-ci.org/getgrav/grav) [![OpenCollective](https://opencollective.com/grav/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/grav/sponsors/badge.svg)](#sponsors)
 
-Grav is a **Fast**, **Simple**, and **Flexible**, file-based Web-platform.  There is **Zero** installation required.  Just extract the ZIP archive, and you are already up and running.  It follows similar principles to other flat-file CMS platforms, but has a different design philosophy than most. Grav comes with a powerful **Package Management System** to allow for simple installation and upgrading of plugins and themes, as well as simple updating of Grav itself.
+O Grav é uma plataforma Web baseada em arquivos **rápida**, **simples**, e **flexível**. A necessidade de instalação é **ZERO**.  asta extrair o arquivo ZIP e já está instalado e funcionando. Ele segue princípios semelhantes a outras plataformas CMS de arquivos simples, mas tem uma filosofia de design diferente da maioria. Grav vem com um poderoso **sistema de gerenciamento de pacotes** para permitir a instalação e atualização simples de plugins e temas, bem como a simples atualização do próprio Grav.
 
-The underlying architecture of Grav is designed to use well-established and _best-in-class_ technologies to ensure that Grav is simple to use and easy to extend. Some of these key technologies include:
+A arquitetura subjacente do Grav foi projetada para usar tecnologias bem estabelecidas e de _primeira classe_ para garantir que o Grav seja simples de usar e fácil de estender. Algumas dessas tecnologias-chave incluem:
 
-* [Twig Templating](https://twig.sensiolabs.org/): for powerful control of the user interface
-* [Markdown](https://en.wikipedia.org/wiki/Markdown): for easy content creation
-* [YAML](https://yaml.org): for simple configuration
-* [Parsedown](https://parsedown.org/): for fast Markdown and Markdown Extra support
-* [Doctrine Cache](https://www.doctrine-project.org/projects/doctrine-orm/en/latest/reference/caching.html): layer for performance
-* [Pimple Dependency Injection Container](https://pimple.sensiolabs.org/): for extensibility and maintainability
-* [Symfony Event Dispatcher](https://symfony.com/doc/current/components/event_dispatcher/introduction.html): for plugin event handling
-* [Symfony Console](https://symfony.com/doc/current/components/console/introduction.html): for CLI interface
-* [Gregwar Image Library](https://github.com/Gregwar/Image): for dynamic image manipulation
+* [Twig Templating](https://twig.sensiolabs.org/): para um controle poderoso da interface do usuário
+* [Markdown](https://en.wikipedia.org/wiki/Markdown): para facilitar a criação de conteúdo
+* [YAML](https://yaml.org): para configuração simples
+* [Parsedown](https://parsedown.org/): para suporte rápido a Markdown e Markdown Extra
+* [Doctrine Cache](https://www.doctrine-project.org/projects/doctrine-orm/en/latest/reference/caching.html): camada para desempenho
+* [Pimple Dependency Injection Container](https://pimple.sensiolabs.org/): para extensibilidade e manutenção
+* [Symfony Event Dispatcher](https://symfony.com/doc/current/components/event_dispatcher/introduction.html): para manipulação de eventos de plug-in
+* [Symfony Console](https://symfony.com/doc/current/components/console/introduction.html): para interface CLI
+* [Gregwar Image Library](https://github.com/Gregwar/Image): para manipulação dinâmica de imagens
 
 # Requirements
 
